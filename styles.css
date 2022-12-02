@@ -211,10 +211,10 @@ span {
   height: 11vh;
 }
 
-#experience-icon:hover {
+/*#experience-icon:hover {
   opacity: 0.5;
   transition: 0.25s;
-}
+}*/
 
 #experience-info {
   margin-left: 5vw;
