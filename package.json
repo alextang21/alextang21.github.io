@@ -1,5 +1,15 @@
 {
+  "homepage": "https://alextang21.github.io/>",
+
   "dependencies": {
     "react-scroll": "^1.8.9"
-  }
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
+
+  "scripts":{
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build" 
+  } 
 }
