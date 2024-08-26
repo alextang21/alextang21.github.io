@@ -8,7 +8,7 @@ const Skills = () => {
     return (
         <section id='skills'>
             <span className='skillTitle'>What I do</span>
-            <span className='skillDesc'>I am a student developer that has worked on projects varying from game development to websites to embedded software projects using graphical programming languages like LabView.</span>
+            <span className='skillDesc'>I am a software developer that has worked on projects varying from game development to websites to embedded software projects using programs like NI LabView and TestStand.</span>
             <div className='skillBars'>
                 <a href="https://alextang21.github.io/cube-slider/">
                     <div className='skillBar'>
